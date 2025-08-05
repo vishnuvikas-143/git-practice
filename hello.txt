@@ -1,0 +1,5 @@
+Git is distributed version control system,it helps developers to manage and track changes in 
+their database.It allows multiple developers work on the project simultaneously
+without interfering in their codebase,it will colloborate and share the details 
+within the repository by providing features such as branching,merging and 
+conflict resolution.
